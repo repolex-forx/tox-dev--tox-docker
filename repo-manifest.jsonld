@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-docker/commit/ccadc6e341edefdf57122318d75906acaf4c25bf",
       "git:hexsha": "ccadc6e341edefdf57122318d75906acaf4c25bf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-docker/commit/82e13b14c9bb915ba71e7615c967b3a7dfbaa7dd",
